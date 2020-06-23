@@ -1,7 +1,0 @@
-source "https://rubygems.org"
-
-# Specify your gem's dependencies in art_through_the_years.gemspec
-gemspec
-```ruby
-gem 'art_through_the_years'
-```
